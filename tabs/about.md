@@ -16,7 +16,7 @@ I always want to practice some Experiences, that is why i delve into User Experi
 
 I also want to talk about the Engineering behind our Technologies, why is it Important, because it is the Back-End of all what we do in codes, because it leads to make a Projects to be Standard, think of MVC, MVVM, MVP, DI, IoC and other Enginnering Patterns which makes us be good Programmers, it is the Enginners who suggest how to have a good Practice and also how to manage our Objects, that is why i always say there is a deep Comparisons between Software Programmers and Software Engineers as my Respect always go to the Software Engineers!
 
-Skills
+Skills:
 HTML - XAML
 Responsive (Mobile First)
 CSS
