@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-Hey, my Name is Mustapha Yusuf, a Student of Computer Science who sees himself a Junior Developer, my love in Technology led me to be a Programmer and my love in Design led me to be a UI/UX Enthusiast. What i know is, all these Practices go with Rules and Principles (that is why i love Engineering), what i always want to know is what drives them to their exixtence.
+Hey, my Name is Mustapha Yusuf, a Student of Computer Science who sees himself a Junior Developer, my love in Technology led me to be a Programmer and my love in Design led me to be a UI/UX Enthusiast. What i know is, all these Practices go with Rules and Principles (that is why i love Engineering).
 
 Having Long-Term Love in Windows since i was Young made me go into Windows Development, from VB.Net to learning C# which offers me to be in different Fields in Microsoft Technologies like WinForms, Wpf, Asp.Net, Xamarin (DotNet MAUI) and use Azure Cloud as my Back-End Service. Visiting differnt Websites makes me be in love of Website Design which led me to be a Front-End Developer using Fancy Animations, Transitions and Colourful Elements
 
